@@ -214,7 +214,7 @@ go_module(
     name = "sys",
     install = ["..."],
     module = "golang.org/x/sys",
-    version = "v0.0.0-20220315194320-039c03cc5b86",
+    version = "v0.24.0",
     visibility = ["PUBLIC"],
 )
 
